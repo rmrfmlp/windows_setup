@@ -1,0 +1,33 @@
+{
+  "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+  "CreationDate": "2026-02-24T00:00:00.000-00:00",
+  "Sources": [
+    {
+      "Packages": [
+        { "PackageIdentifier": "Google.Chrome" },
+        { "PackageIdentifier": "Mozilla.Firefox" },
+        { "PackageIdentifier": "Waterfox.Waterfox" },
+        { "PackageIdentifier": "dotPDN.PaintDotNet" },
+        { "PackageIdentifier": "Zoom.Zoom" },
+        { "PackageIdentifier": "SublimeHQ.SublimeText.4" },
+        { "PackageIdentifier": "Notepad++.Notepad++" },
+        { "PackageIdentifier": "VideoLAN.VLC" },
+        { "PackageIdentifier": "WinDirStat.WinDirStat" },
+        { "PackageIdentifier": "7zip.7zip" },
+        { "PackageIdentifier": "File-New-Project.EarTrumpet" },
+        { "PackageIdentifier": "Mozilla.Thunderbird" },
+        { "PackageIdentifier": "OBSProject.OBSStudio" },
+        { "PackageIdentifier": "Google.ChromeRemoteDesktopHost" },
+        { "PackageIdentifier": "voidtools.Everything" },
+        { "PackageIdentifier": "FilesCommunity.Files" },
+        { "PackageIdentifier": "QL-Win.QuickLook" }
+      ],
+      "SourceDetails": {
+        "Argument": "https://cdn.winget.microsoft.com/cache",
+        "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+        "Name": "winget",
+        "Type": "Microsoft.PreIndexed.Package"
+      }
+    }
+  ]
+}
