@@ -30,3 +30,6 @@ winget source update
 ```
 
 Then re-run
+
+Install Files using Powershell:  
+`Add-AppxPackage -AppInstallerFile https://cdn.files.community/files/stable/Files.Package.appinstaller`
