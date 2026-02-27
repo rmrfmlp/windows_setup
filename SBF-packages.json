@@ -14,12 +14,10 @@
         { "PackageIdentifier": "VideoLAN.VLC" },
         { "PackageIdentifier": "WinDirStat.WinDirStat" },
         { "PackageIdentifier": "7zip.7zip" },
-        { "PackageIdentifier": "File-New-Project.EarTrumpet" },
         { "PackageIdentifier": "Mozilla.Thunderbird" },
         { "PackageIdentifier": "OBSProject.OBSStudio" },
         { "PackageIdentifier": "Google.ChromeRemoteDesktopHost" },
         { "PackageIdentifier": "voidtools.Everything" },
-        { "PackageIdentifier": "FilesCommunity.Files" },
         { "PackageIdentifier": "QL-Win.QuickLook" }
       ],
       "SourceDetails": {
