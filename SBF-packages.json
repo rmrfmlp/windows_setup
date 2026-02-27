@@ -16,7 +16,6 @@
         { "PackageIdentifier": "7zip.7zip" },
         { "PackageIdentifier": "Mozilla.Thunderbird" },
         { "PackageIdentifier": "OBSProject.OBSStudio" },
-        { "PackageIdentifier": "Google.ChromeRemoteDesktopHost" },
         { "PackageIdentifier": "voidtools.Everything" },
         { "PackageIdentifier": "QL-Win.QuickLook" }
       ],
