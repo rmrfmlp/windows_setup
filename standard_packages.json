@@ -15,12 +15,12 @@
         { "PackageIdentifier": "voidtools.Everything" },
         { "PackageIdentifier": "QL-Win.QuickLook" },
         { "PackageIdentifier": "Discord.Discord" },
-        { "PackageIdentifier": "Signal.Signal" },
+        { "PackageIdentifier": "OpenWhisperSystems.Signal" },
         { "PackageIdentifier": "BleachBit.BleachBit" },
-        { "PackageIdentifier": "BCUninstaller.BulkCrapUninstaller" },
-        { "PackageIdentifier": "HWiNFO.HWiNFO" },
-        { "PackageIdentifier": "OOSU10.OOSU10" },
-        { "PackageIdentifier": "Steam.Steam" }
+        { "PackageIdentifier": "Klocman.BulkCrapUninstaller" },
+        { "PackageIdentifier": "CPUID.HWMonitor" },
+        { "PackageIdentifier": "OO-Software.ShutUp10" },
+        { "PackageIdentifier": "Valve.Steam" }
       ],
       "SourceDetails": {
         "Argument": "https://cdn.winget.microsoft.com/cache",
