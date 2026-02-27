@@ -1,0 +1,33 @@
+{
+  "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+  "CreationDate": "2026-02-24T00:00:00.000-00:00",
+  "Sources": [
+    {
+      "Packages": [
+        { "PackageIdentifier": "Google.Chrome" },
+        { "PackageIdentifier": "Mozilla.Firefox" },
+        { "PackageIdentifier": "dotPDN.PaintDotNet" },
+        { "PackageIdentifier": "Zoom.Zoom" },
+        { "PackageIdentifier": "Notepad++.Notepad++" },
+        { "PackageIdentifier": "VideoLAN.VLC" },
+        { "PackageIdentifier": "WinDirStat.WinDirStat" },
+        { "PackageIdentifier": "7zip.7zip" },
+        { "PackageIdentifier": "voidtools.Everything" },
+        { "PackageIdentifier": "QL-Win.QuickLook" },
+        { "PackageIdentifier": "Discord.Discord" },
+        { "PackageIdentifier": "Signal.Signal" },
+        { "PackageIdentifier": "BleachBit.BleachBit" },
+        { "PackageIdentifier": "BCUninstaller.BulkCrapUninstaller" },
+        { "PackageIdentifier": "HWiNFO.HWiNFO" },
+        { "PackageIdentifier": "OOSU10.OOSU10" },
+        { "PackageIdentifier": "Steam.Steam" }
+      ],
+      "SourceDetails": {
+        "Argument": "https://cdn.winget.microsoft.com/cache",
+        "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+        "Name": "winget",
+        "Type": "Microsoft.PreIndexed.Package"
+      }
+    }
+  ]
+}
